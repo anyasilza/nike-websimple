@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'HeldustryFT';
+    src: url('HeldustryFT-Regular.eot');
+    src: url('HeldustryFT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('HeldustryFT-Regular.woff2') format('woff2'),
+        url('HeldustryFT-Regular.woff') format('woff'),
+        url('HeldustryFT-Regular.ttf') format('truetype'),
+        url('HeldustryFT-Regular.svg#HeldustryFT-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SansSerifBldFLFCond';
+    src: url('SansSerifBldFLFCond.eot');
+    src: url('SansSerifBldFLFCond.eot?#iefix') format('embedded-opentype'),
+        url('SansSerifBldFLFCond.woff2') format('woff2'),
+        url('SansSerifBldFLFCond.woff') format('woff'),
+        url('SansSerifBldFLFCond.ttf') format('truetype'),
+        url('SansSerifBldFLFCond.svg#SansSerifBldFLFCond') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura-CondExtraBoldObl';
+    src: url('Futura-CondExtraBoldObl.eot');
+    src: url('Futura-CondExtraBoldObl.eot?#iefix') format('embedded-opentype'),
+        url('Futura-CondExtraBoldObl.woff2') format('woff2'),
+        url('Futura-CondExtraBoldObl.woff') format('woff'),
+        url('Futura-CondExtraBoldObl.ttf') format('truetype'),
+        url('Futura-CondExtraBoldObl.svg#Futura-CondExtraBoldObl') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NimbusSanL-RegIta';
+    src: url('NimbusSanL-RegIta.eot');
+    src: url('NimbusSanL-RegIta.eot?#iefix') format('embedded-opentype'),
+        url('NimbusSanL-RegIta.woff2') format('woff2'),
+        url('NimbusSanL-RegIta.woff') format('woff'),
+        url('NimbusSanL-RegIta.ttf') format('truetype'),
+        url('NimbusSanL-RegIta.svg#NimbusSanL-RegIta') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NimbusSanL-Reg';
+    src: url('NimbusSanL-Reg.eot');
+    src: url('NimbusSanL-Reg.eot?#iefix') format('embedded-opentype'),
+        url('NimbusSanL-Reg.woff2') format('woff2'),
+        url('NimbusSanL-Reg.woff') format('woff'),
+        url('NimbusSanL-Reg.ttf') format('truetype'),
+        url('NimbusSanL-Reg.svg#NimbusSanL-Reg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NimbusSanL-BolIta';
+    src: url('NimbusSanL-BolIta.eot');
+    src: url('NimbusSanL-BolIta.eot?#iefix') format('embedded-opentype'),
+        url('NimbusSanL-BolIta.woff2') format('woff2'),
+        url('NimbusSanL-BolIta.woff') format('woff'),
+        url('NimbusSanL-BolIta.ttf') format('truetype'),
+        url('NimbusSanL-BolIta.svg#NimbusSanL-BolIta') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NimbusSanL-Bol';
+    src: url('NimbusSanL-Bol.eot');
+    src: url('NimbusSanL-Bol.eot?#iefix') format('embedded-opentype'),
+        url('NimbusSanL-Bol.woff2') format('woff2'),
+        url('NimbusSanL-Bol.woff') format('woff'),
+        url('NimbusSanL-Bol.ttf') format('truetype'),
+        url('NimbusSanL-Bol.svg#NimbusSanL-Bol') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
